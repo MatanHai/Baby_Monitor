@@ -22,5 +22,5 @@ void loop() {
     motionSent = false;                       // איפוס לדיווח הבא
   }
 
-  delay(100); // שיהיה זמן "נשימה" ללולאה
+  delay(100);
 }
